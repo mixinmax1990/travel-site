@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="715px" height="715px" viewBox="0 0 715 715" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M356.5,1 L356.5,41 C181.701877,41 40,182.701877 40,357.5 C40,532.298123 181.701877,674 356.5,674 C529.550142,674 670.162653,535.117991 672.957598,362.733906 L673,357.5 L713,357.5 C713,554.389513 553.389513,714 356.5,714 C159.610487,714 0,554.389513 0,357.5 C0,162.579382 156.434238,4.19593764 350.604621,1.04776081 L356.5,1 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-353.000000, -87.000000)">
+            <g id="Group" transform="translate(354.000000, 87.000000)">
+                <g id="Path" stroke-linejoin="round" fill-rule="nonzero" stroke="#979797">
+                    <use fill="#979797" xlink:href="#path-1"></use>
+                    <use xlink:href="#path-1"></use>
+                </g>
+                <circle id="Oval-Copy" fill="#999999" cx="693" cy="358" r="21"></circle>
+                <circle id="Oval-Copy-2" fill="#999999" cx="353" cy="21" r="21"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
